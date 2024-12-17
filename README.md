@@ -1,7 +1,8 @@
 # Final2.0-260
 
 
-	This project initially started from a need I noticed at an old ski resort that I used to work at.
+	
+ This project initially started from a need I noticed at an old ski resort that I used to work at.
  I noticed that the shuttle was constantly running a loop regardless of if people were there to be picked up. 
  The objective of this project is to stop the shuttle from needing to be “polling” for passengers and can instead use a more efficient method that will save them on fuel and labor time.
  This project will affect public health, environmental factors, and economic factors by helping shuttle services use an "interrupt" method instead of a "polling" method to see if people need to be picked up and shuttled.
